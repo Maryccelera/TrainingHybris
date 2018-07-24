@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 18-lug-2018 15.41.13                        ---
+ * --- Generated at 20-lug-2018 11.38.08                        ---
  * ----------------------------------------------------------------
  */
 package my.bookstore.fulfilmentprocess.constants;
